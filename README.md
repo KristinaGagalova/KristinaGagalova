@@ -8,7 +8,7 @@ My name is Kristina Gagalova, and I have no special talents. I am only passionat
 🤝 I thrive on collaboration and building bridges between research disciplines  
 
 👩‍🔬 I identify as a bioinformatics scientist, entrepreneur and research software engineer    
-🌿 I'm involved in both academia and industry, especially in the intersection of genomics and AI  explorer     
+🌿 I'm involved in both academia and industry, especially in the intersection of genomics and AI          
 🚀 I'm currently a **Nextflow Ambassador** and a certified **Carpentries Instructor**     
   
 📍 I'm based at Curtin University and actively contribute to projects supported by the Analytics for the Australian Grains Industry (AAGI)  
