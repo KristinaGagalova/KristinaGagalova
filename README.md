@@ -18,7 +18,8 @@ My name is Kristina Gagalova, and I have no special talents. I am only passionat
 ## 🔎 Research Interests
 
 - 🌾 **Plant and fungal pathogen pangenomics**
-- 🌱 **Applications of bioinformatics to plant breeding**  
+- 🌱 **Applications of bioinformatics to plant breeding**
+- 🔬 **Gene family evolution and genome annotations**, especially for **enzymes and secondary metabolites in plants**  
 - 🧬 **Structural bioinformatics**, including protein–protein interactions and **intrinsically disordered regions (IDRs)**  
 - 🧪 **Biochemical protein pathways**  
 - 🗃️ **Bioinformatics databases** and graph systems  
