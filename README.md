@@ -19,8 +19,9 @@ My name is Kristina Gagalova, and I have no special talents. I am only passionat
 
 - 🌾 **Plant and fungal pathogen pangenomics**
 - 🌱 **Applications of bioinformatics to plant breeding**
-- 🧬 **Optimal genome annotation strategies**, optimized for plants and non-model organism species
-- 🔬 **Gene family evolution and genome annotations**, especially for **enzymes and secondary metabolites in plants**  
+- 🧬 **Genome annotation strategies**, optimized for plants and non-model organism species
+- 🔬 **Gene family evolution and genome annotations**, especially for **enzymes and secondary metabolites in plants**
+- 🧬**Horizontal gene transfer** events and trasnposable elements analysis       
 - 🧬 **Structural bioinformatics**, including protein–protein interactions and **intrinsically disordered regions (IDRs)**  
 - 🧪 **Analysis metabolomic pathways**  
 - 🗃️ **Bioinformatics databases** and graph systems  
